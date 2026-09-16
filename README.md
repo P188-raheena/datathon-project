@@ -194,8 +194,14 @@ Expected Accuracy:
 Add screenshots here:
 
 - Home Page
+- <img width="1485" height="995" alt="image" src="https://github.com/user-attachments/assets/f958c51d-61fb-4a14-b151-668e0f4a03ef" />
+
 - Input Form
+- <img width="657" height="881" alt="image" src="https://github.com/user-attachments/assets/57a59c42-a400-4c16-8ae4-fbe978f757d7" />
+
 - Prediction Result
+- <img width="770" height="622" alt="image" src="https://github.com/user-attachments/assets/5da377cd-6f6d-4ce6-8b0e-a57a18465f9a" />
+
 - Accuracy Graph
 
 ---
